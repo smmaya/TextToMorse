@@ -25,7 +25,6 @@ public class Main {
                 }
             }
         }
-
     }
 
     public static void MakeSound(String singleCode) throws MalformedURLException, InterruptedException {
